@@ -1,0 +1,7 @@
+The cat ate the sandwich .
+The dog drank coffee .
+The cat drank tea .
+The squirrel ate peanuts .
+The squirrel ate the pizza .
+The dog drank tea .
+The dog chased the cat .

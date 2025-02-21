@@ -1,0 +1,6 @@
+A/DT man/NN from/IN the/DT Bush/NNP administration/NN ate/VBD tacos/NNS ./.
+
+The/DT committee/NN 's/POS members/NNS are/VBP worried/VBN ./.
+
+Rep./NNP Gary/NNP Ackerman/NNP noted/VBD that/IN past/JJ food/NN aid/NN had/VBD harmed/VBN farmers/NNS ./.
+A/DT man/woman/NN from/IN the/DT Bush/NNP administration/NN ./.
