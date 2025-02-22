@@ -1,7 +1,7 @@
 # NLP Projects Repository
 
 ## Overview
-This repository contains various Natural Language Processing (NLP) projects implemented as part of coursework. Each project explores different core NLP concepts, ranging from language modeling to part-of-speech tagging and classification tasks.
+This repository contains various Natural Language Processing (NLP) projects implemented as part of coursework at Brandeis Univeristy for 243COSI-114A-1 : Fundamentals of Natural Language Processing I. Each project explores different core NLP concepts, ranging from language modeling to part-of-speech tagging and classification tasks.
 
 ---
 
