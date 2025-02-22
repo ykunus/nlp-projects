@@ -128,8 +128,8 @@ print("Weighted F1-score:", scorer.weighted_f1())
 sweep_hyperparameters()
 
 # Example Output:
-# Feature Extractor: CharTrigramFeatureExtractor, Warmup Epochs: 2, Decay: 0.8, Accuracy: 93.45%
-# Best Configuration: {'feature_extractor': 'CharTrigramFeatureExtractor', 'warmup_epochs': 2, 'decay': 0.8, 'accuracy': 93.45%}
+Feature Extractor: CharTrigramFeatureExtractor, Warmup Epochs: 2, Decay: 0.8, Accuracy: 93.45%
+Best Configuration: {'feature_extractor': 'CharTrigramFeatureExtractor', 'warmup_epochs': 2, 'decay': 0.8, 'accuracy': 93.45%}
 
 # **Using the Tuned Perceptron Model**
 
